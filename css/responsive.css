@@ -1,0 +1,47 @@
+/********************************************
+                    MEDIA QUERIES
+*********************************************/
+
+/*Large Devices*/
+@media(min-width:1200px){
+      /* OK */
+}
+@media(max-width:1199px){
+  .navbar{
+    background: rgba(0,0,0,0.7);
+    padding:0;
+  }
+  .navbar-nav{
+    float:left;
+  }
+  #vesco-nav-wrapper{
+    padding:0;
+  }
+}
+
+/*Medium Devices*/
+@media(min-width:992px) and (max-width:1199px){
+  
+  
+}
+
+/*Small Devices*/
+@media(min-width:768px) and (max-width:991px){
+  
+
+}
+
+/*Extra Small Devices*/
+@media(max-width:767px){
+  
+}
+
+/*Extra Small Devices*/
+@media(max-width:480px){
+  
+}
+
+/*Extra Small Devices*/
+@media(max-width:320px){
+  
+}
